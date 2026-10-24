@@ -1,4 +1,4 @@
-# 🖼️ Smart Image Enhancement System
+# 🖼️ Image Enhancement and Noise Reduction System
 
 A Python-based image processing application built using **OpenCV, NumPy, Matplotlib, Pillow, and Streamlit**. This project allows users to upload grayscale images and apply different image enhancement, noise reduction, and sharpening techniques through an interactive web interface.
 
